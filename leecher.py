@@ -19,7 +19,7 @@ global KwdNum
 print('mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm')
 print('Hi Here is leecher Bing are search sources')
 print('We will updata the Goole search Pls wait xD')
-print('Our website http://leecher.cnix.plus')
+print('Our website http://leecher.top')
 print('mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm')
 
 def getLink3(kwdList,page):
